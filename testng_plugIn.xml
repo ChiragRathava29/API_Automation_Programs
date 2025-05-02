@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Chirag/IdeaProjects/API_Automation_Programs">
+        <classes>
+            <class name="com.ChiragRathava.ex02_RA_TestNG_AllureReport.API_Testing05_TC_TestNG_Fix">
+            </class>
+        </classes>
+    </test>
+</suite>

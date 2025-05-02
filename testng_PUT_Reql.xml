@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite1" verbose="1">
+    <test name="Automation_Program">
+        <classes>
+            <class name="com.ChiragRathava.ex05_PUT_Request.API_Testing_11_PUT_NonBDDStyle"></class>
+        </classes>
+    </test>
+</suite>

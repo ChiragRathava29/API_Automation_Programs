@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="API Testing Suite" verbose="1">
+    <test name="API Tests">
+        <packages>
+            <package name="com.ChiragRathava.ex02_RA_TestNG_AllureReport">
+                <classes>
+                    <class name="com.ChiragRathava.ex02_RA_TestNG_AllureReport.API_Testing05_TC_TestNG_Fix" />
+                </classes>
+            </package>
+        </packages>
+    </test>
+</suite>
