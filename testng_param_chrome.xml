@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite1" verbose="1">
+    <test name="API Test Cases">
+
+        <parameter name="browser" value="chrome"></parameter>
+        
+        <classes>
+            <class name="com.ChiragRathava.ex08_testNGExamples.API_Testing_19_TestNG_Parameter"></class>
+        </classes>
+    </test>
+</suite>
